@@ -1,0 +1,209 @@
+[C]PRINTER  [00]; 0000000000014959500; Printer 0 is launched.
+[C]PRINTER  [01]; 0000000000016954900; Printer 1 is launched.
+PRODUCER    [00]; 0000000000023935400; Creating Producer 0
+PRODUCER    [02]; 0000000000023935400; Creating Producer 2
+PRODUCER    [01]; 0000000000023935400; Creating Producer 1
+PRODUCER    [02]; 0000000000024933100; Trying to Add   {Student   , ID:050, 367ms}
+PRODUCER    [00]; 0000000000024933100; Trying to Add   {Instructor, ID:000, 101ms}
+PRODUCER    [01]; 0000000000025930300; Trying to Add   {Instructor, ID:025, 101ms}
+PRODUCER    [00]; 0000000000026927900; Trying to Add   {Instructor, ID:001, 101ms}
+PRODUCER    [01]; 0000000000026927900; Trying to Add   {Student   , ID:026, 300ms}
+PRODUCER    [02]; 0000000000027925100; Trying to Add   {Student   , ID:051, 375ms}
+PRODUCER    [00]; 0000000000026927900; Trying to Add   {Instructor, ID:002, 101ms}
+PRODUCER    [01]; 0000000000028923500; Trying to Add   {Instructor, ID:027, 101ms}
+PRODUCER    [00]; 0000000000029920400; Trying to Add   {Instructor, ID:003, 101ms}
+PRODUCER    [02]; 0000000000029920400; Trying to Add   {Instructor, ID:052, 296ms}
+PRODUCER    [00]; 0000000000029920400; Trying to Add   {Instructor, ID:004, 101ms}
+PRODUCER    [01]; 0000000000029920400; Trying to Add   {Student   , ID:028, 271ms}
+PRODUCER    [00]; 0000000000030918100; Trying to Add   {Student   , ID:005, 101ms}
+PRODUCER    [02]; 0000000000030918100; Trying to Add   {Instructor, ID:053, 305ms}
+PRODUCER    [00]; 0000000000031914300; Trying to Add   {Instructor, ID:006, 100ms}
+PRODUCER    [01]; 0000000000030918100; Trying to Add   {Instructor, ID:029, 100ms}
+PRODUCER    [00]; 0000000000032913000; Trying to Add   {Student   , ID:007, 101ms}
+PRODUCER    [00]; 0000000000032913000; Trying to Add   {Student   , ID:008, 101ms}
+PRODUCER    [00]; 0000000000033910800; Trying to Add   {Student   , ID:009, 100ms}
+PRODUCER    [02]; 0000000000031914300; Trying to Add   {Instructor, ID:054, 122ms}
+PRODUCER    [00]; 0000000000033910800; Trying to Add   {Student   , ID:010, 100ms}
+PRODUCER    [01]; 0000000000032913000; Trying to Add   {Student   , ID:030, 376ms}
+PRODUCER    [00]; 0000000000035903500; Trying to Add   {Instructor, ID:011, 101ms}
+PRODUCER    [02]; 0000000000035903500; Trying to Add   {Student   , ID:055, 679ms}
+PRODUCER    [00]; 0000000000037898700; Trying to Add   {Instructor, ID:012, 101ms}
+PRODUCER    [01]; 0000000000037898700; Trying to Add   {Student   , ID:031, 340ms}
+PRODUCER    [00]; 0000000000038896000; Trying to Add   {Instructor, ID:013, 100ms}
+PRODUCER    [02]; 0000000000037898700; Trying to Add   {Instructor, ID:056, 294ms}
+PRODUCER    [00]; 0000000000039892800; Trying to Add   {Instructor, ID:014, 100ms}
+PRODUCER    [01]; 0000000000038896000; Trying to Add   {Student   , ID:032, 212ms}
+PRODUCER    [00]; 0000000000039892800; Trying to Add   {Student   , ID:015, 101ms}
+PRODUCER    [02]; 0000000000039892800; Trying to Add   {Instructor, ID:057, 340ms}
+PRODUCER    [00]; 0000000000040890200; Trying to Add   {Instructor, ID:016, 101ms}
+PRODUCER    [01]; 0000000000040890200; Trying to Add   {Instructor, ID:033, 100ms}
+PRODUCER    [02]; 0000000000040890200; Trying to Add   {Student   , ID:058, 334ms}
+[C]PRINTER  [01]; 0000000000129175000; Printing        {Instructor, ID:000, 101ms} is done!
+PRODUCER    [00]; 0000000000129175000; Trying to Add   {Instructor, ID:017, 101ms}
+[C]PRINTER  [00]; 0000000000130170800; Printing        {Instructor, ID:025, 101ms} is done!
+PRODUCER    [01]; 0000000000130170800; Trying to Add   {Student   , ID:034, 262ms}
+[C]PRINTER  [01]; 0000000000232418100; Printing        {Instructor, ID:001, 101ms} is done!
+PRODUCER    [02]; 0000000000232418100; Trying to Add   {Student   , ID:059, 619ms}
+[C]PRINTER  [00]; 0000000000233416200; Printing        {Instructor, ID:002, 101ms} is done!
+PRODUCER    [00]; 0000000000233416200; Trying to Add   {Instructor, ID:018, 101ms}
+[C]PRINTER  [00]; 0000000000335693900; Printing        {Instructor, ID:033, 100ms} is done!
+[C]PRINTER  [01]; 0000000000335693900; Printing        {Instructor, ID:016, 101ms} is done!
+PRODUCER    [01]; 0000000000335693900; Trying to Add   {Instructor, ID:035, 101ms}
+PRODUCER    [02]; 0000000000335693900; Trying to Add   {Student   , ID:060, 254ms}
+[C]PRINTER  [01]; 0000000000439005300; Printing        {Instructor, ID:017, 101ms} is done!
+PRODUCER    [00]; 0000000000439005300; Trying to Add   {Student   , ID:019, 100ms}
+[C]PRINTER  [01]; 0000000000541349200; Printing        {Instructor, ID:004, 101ms} is done!
+PRODUCER    [01]; 0000000000541349200; Trying to Add   {Instructor, ID:036, 100ms}
+[C]PRINTER  [00]; 0000000000632612200; Printing        {Instructor, ID:052, 296ms} is done!
+PRODUCER    [02]; 0000000000632612200; Trying to Add   {Student   , ID:061, 543ms}
+[C]PRINTER  [01]; 0000000000665557200; Printing        {Instructor, ID:054, 122ms} is done!
+PRODUCER    [00]; 0000000000666521000; Trying to Add   {Student   , ID:020, 101ms}
+[C]PRINTER  [00]; 0000000000735955400; Printing        {Instructor, ID:018, 101ms} is done!
+PRODUCER    [01]; 0000000000735955400; Trying to Add   {Instructor, ID:037, 101ms}
+[C]PRINTER  [01]; 0000000000767904100; Printing        {Instructor, ID:035, 101ms} is done!
+PRODUCER    [02]; 0000000000767904100; Trying to Add   {Student   , ID:062, 277ms}
+[C]PRINTER  [00]; 0000000000839254600; Printing        {Instructor, ID:011, 101ms} is done!
+PRODUCER    [00]; 0000000000839254600; Trying to Add   {Student   , ID:021, 101ms}
+[C]PRINTER  [01]; 0000000000871134600; Printing        {Instructor, ID:012, 101ms} is done!
+PRODUCER    [01]; 0000000000871134600; Trying to Add   {Instructor, ID:038, 100ms}
+[C]PRINTER  [00]; 0000000000941531800; Printing        {Instructor, ID:036, 100ms} is done!
+PRODUCER    [02]; 0000000000941531800; Trying to Add   {Student   , ID:063, 364ms}
+[C]PRINTER  [01]; 0000000000974475800; Printing        {Instructor, ID:027, 101ms} is done!
+PRODUCER    [00]; 0000000000974475800; Trying to Add   {Instructor, ID:022, 101ms}
+[C]PRINTER  [01]; 0000000001077751300; Printing        {Instructor, ID:037, 101ms} is done!
+PRODUCER    [01]; 0000000001077751300; Trying to Add   {Instructor, ID:039, 100ms}
+[C]PRINTER  [01]; 0000000001180132000; Printing        {Instructor, ID:013, 100ms} is done!
+PRODUCER    [02]; 0000000001180132000; Trying to Add   {Student   , ID:064, 433ms}
+[C]PRINTER  [00]; 0000000001248496500; Printing        {Instructor, ID:053, 305ms} is done!
+PRODUCER    [00]; 0000000001248496500; Trying to Add   {Instructor, ID:023, 100ms}
+[C]PRINTER  [01]; 0000000001282440700; Printing        {Instructor, ID:006, 100ms} is done!
+PRODUCER    [01]; 0000000001282440700; Trying to Add   {Instructor, ID:040, 101ms}
+[C]PRINTER  [00]; 0000000001353860100; Printing        {Instructor, ID:038, 100ms} is done!
+PRODUCER    [02]; 0000000001353860100; Trying to Add   {Instructor, ID:065, 185ms}
+[C]PRINTER  [00]; 0000000001458200600; Printing        {Instructor, ID:022, 101ms} is done!
+PRODUCER    [00]; 0000000001458200600; Trying to Add   {Instructor, ID:024, 100ms}
+[C]PRINTER  [00]; 0000000001559536700; Printing        {Instructor, ID:039, 100ms} is done!
+PRODUCER    [01]; 0000000001559536700; Trying to Add   {Student   , ID:041, 393ms}
+[C]PRINTER  [01]; 0000000001578454900; Printing        {Instructor, ID:056, 294ms} is done!
+PRODUCER    [02]; 0000000001578454900; Trying to Add   {Instructor, ID:066, 235ms}
+[C]PRINTER  [00]; 0000000001661746400; Printing        {Instructor, ID:014, 100ms} is done!
+[C]PRINTER  [01]; 0000000001682694800; Printing        {Instructor, ID:023, 100ms} is done!
+PRODUCER    [01]; 0000000001682694800; Trying to Add   {Student   , ID:042, 159ms}
+[C]PRINTER  [00]; 0000000001764987200; Printing        {Instructor, ID:040, 101ms} is done!
+PRODUCER    [02]; 0000000001764987200; Trying to Add   {Instructor, ID:067, 113ms}
+[C]PRINTER  [00]; 0000000001867225100; Printing        {Instructor, ID:024, 100ms} is done!
+PRODUCER    [01]; 0000000001867225100; Trying to Add   {Student   , ID:043, 308ms}
+[C]PRINTER  [01]; 0000000001869253700; Printing        {Instructor, ID:065, 185ms} is done!
+PRODUCER    [02]; 0000000001869253700; Trying to Add   {Instructor, ID:068, 145ms}
+[C]PRINTER  [00]; 0000000001970602600; Printing        {Instructor, ID:003, 101ms} is done!
+PRODUCER    [01]; 0000000001970602600; Trying to Add   {Instructor, ID:044, 100ms}
+[C]PRINTER  [01]; 0000000001971564600; Printing        {Instructor, ID:029, 100ms} is done!
+PRODUCER    [02]; 0000000001971564600; Trying to Add   {Student   , ID:069, 436ms}
+[C]PRINTER  [01]; 0000000002208810800; Printing        {Instructor, ID:066, 235ms} is done!
+PRODUCER    [01]; 0000000002208810800; Trying to Add   {Student   , ID:045, 319ms}
+[C]PRINTER  [00]; 0000000002311168000; Printing        {Instructor, ID:057, 340ms} is done!
+PRODUCER    [02]; 0000000002311168000; Trying to Add   {Student   , ID:070, 316ms}
+[C]PRINTER  [01]; 0000000002324099600; Printing        {Instructor, ID:067, 113ms} is done!
+PRODUCER    [01]; 0000000002324099600; Trying to Add   {Instructor, ID:046, 100ms}
+[C]PRINTER  [01]; 0000000002424552200; Printing        {Instructor, ID:044, 100ms} is done!
+PRODUCER    [02]; 0000000002424552200; Trying to Add   {Student   , ID:071, 614ms}
+[C]PRINTER  [00]; 0000000002458443100; Printing        {Instructor, ID:068, 145ms} is done!
+PRODUCER    [01]; 0000000002458443100; Trying to Add   {Instructor, ID:047, 101ms}
+[C]PRINTER  [00]; 0000000002778208400; Printing        {Student   , ID:045, 319ms} is done!
+PRODUCER    [02]; 0000000002778208400; Trying to Add   {Student   , ID:072, 514ms}
+[C]PRINTER  [01]; 0000000002862596500; Printing        {Student   , ID:069, 436ms} is done!
+PRODUCER    [01]; 0000000002862596500; Trying to Add   {Student   , ID:048, 280ms}
+[C]PRINTER  [00]; 0000000002880627400; Printing        {Instructor, ID:046, 100ms} is done!
+PRODUCER    [02]; 0000000002880627400; Trying to Add   {Instructor, ID:073, 287ms}
+[C]PRINTER  [00]; 0000000002983880900; Printing        {Instructor, ID:047, 101ms} is done!
+PRODUCER    [01]; 0000000002983880900; Trying to Add   {Student   , ID:049, 279ms}
+[C]PRINTER  [00]; 0000000003143553200; Printing        {Student   , ID:042, 159ms} is done!
+PRODUCER    [02]; 0000000003143553200; Trying to Add   {Instructor, ID:074, 355ms}
+[C]PRINTER  [01]; 0000000003171476400; Printing        {Student   , ID:043, 308ms} is done!
+[C]PRINTER  [01]; 0000000003461534800; Printing        {Instructor, ID:073, 287ms} is done!
+PRODUCER    [02]; 0000000003461534800; Trying to Add   {Student   , ID:075, 437ms}
+[C]PRINTER  [00]; 0000000003658137600; Printing        {Student   , ID:072, 514ms} is done!
+PRODUCER    [02]; 0000000003658137600; Trying to Add   {Instructor, ID:076, 300ms}
+[C]PRINTER  [01]; 0000000003856603800; Printing        {Student   , ID:041, 393ms} is done!
+PRODUCER    [02]; 0000000003856603800; Trying to Add   {Instructor, ID:077, 259ms}
+[C]PRINTER  [00]; 0000000004016205600; Printing        {Instructor, ID:074, 355ms} is done!
+PRODUCER    [02]; 0000000004016205600; Trying to Add   {Student   , ID:078, 563ms}
+[C]PRINTER  [01]; 0000000004173302500; Printing        {Student   , ID:070, 316ms} is done!
+PRODUCER    [02]; 0000000004173302500; Trying to Add   {Student   , ID:079, 342ms}
+[C]PRINTER  [00]; 0000000004317249600; Printing        {Instructor, ID:076, 300ms} is done!
+PRODUCER    [02]; 0000000004317249600; Trying to Add   {Instructor, ID:080, 151ms}
+[C]PRINTER  [01]; 0000000004434607700; Printing        {Instructor, ID:077, 259ms} is done!
+PRODUCER    [02]; 0000000004434607700; Trying to Add   {Instructor, ID:081, 122ms}
+[C]PRINTER  [00]; 0000000004599249300; Printing        {Student   , ID:048, 280ms} is done!
+PRODUCER    [02]; 0000000004599249300; Trying to Add   {Student   , ID:082, 666ms}
+[C]PRINTER  [00]; 0000000004752489300; Printing        {Instructor, ID:080, 151ms} is done!
+PRODUCER    [02]; 0000000004752489300; Trying to Add   {Student   , ID:083, 615ms}
+[C]PRINTER  [00]; 0000000004876649400; Printing        {Instructor, ID:081, 122ms} is done!
+PRODUCER    [02]; 0000000004876649400; Trying to Add   {Instructor, ID:084, 353ms}
+[C]PRINTER  [01]; 0000000004998472200; Printing        {Student   , ID:078, 563ms} is done!
+PRODUCER    [02]; 0000000004998472200; Trying to Add   {Instructor, ID:085, 235ms}
+MT          [00]; 0000000005035427400; Closing Room
+PRODUCER    [02]; 0000000005035427400; Room is closed, {Instructor, ID:085, 235ms} is skipped!
+PRODUCER    [02]; 0000000005036372100; Trying to Add   {Student   , ID:086, 588ms}
+PRODUCER    [02]; 0000000005036372100; Room is closed, {Student   , ID:086, 588ms} is skipped!
+PRODUCER    [02]; 0000000005036372100; Trying to Add   {Student   , ID:087, 698ms}
+PRODUCER    [02]; 0000000005037366500; Room is closed, {Student   , ID:087, 698ms} is skipped!
+PRODUCER    [02]; 0000000005037366500; Trying to Add   {Student   , ID:088, 689ms}
+PRODUCER    [02]; 0000000005037366500; Room is closed, {Student   , ID:088, 689ms} is skipped!
+PRODUCER    [02]; 0000000005037366500; Trying to Add   {Student   , ID:089, 614ms}
+PRODUCER    [02]; 0000000005038363800; Room is closed, {Student   , ID:089, 614ms} is skipped!
+PRODUCER    [02]; 0000000005038363800; Trying to Add   {Student   , ID:090, 582ms}
+PRODUCER    [02]; 0000000005038363800; Room is closed, {Student   , ID:090, 582ms} is skipped!
+PRODUCER    [02]; 0000000005038363800; Trying to Add   {Student   , ID:091, 393ms}
+PRODUCER    [02]; 0000000005039361000; Room is closed, {Student   , ID:091, 393ms} is skipped!
+PRODUCER    [02]; 0000000005039361000; Trying to Add   {Student   , ID:092, 529ms}
+PRODUCER    [02]; 0000000005039361000; Room is closed, {Student   , ID:092, 529ms} is skipped!
+PRODUCER    [02]; 0000000005039361000; Trying to Add   {Student   , ID:093, 553ms}
+PRODUCER    [02]; 0000000005040364700; Room is closed, {Student   , ID:093, 553ms} is skipped!
+PRODUCER    [02]; 0000000005040364700; Trying to Add   {Student   , ID:094, 317ms}
+PRODUCER    [02]; 0000000005040364700; Room is closed, {Student   , ID:094, 317ms} is skipped!
+PRODUCER    [02]; 0000000005040364700; Trying to Add   {Instructor, ID:095, 215ms}
+PRODUCER    [02]; 0000000005041355700; Room is closed, {Instructor, ID:095, 215ms} is skipped!
+PRODUCER    [02]; 0000000005041355700; Trying to Add   {Instructor, ID:096, 230ms}
+PRODUCER    [02]; 0000000005041355700; Room is closed, {Instructor, ID:096, 230ms} is skipped!
+PRODUCER    [02]; 0000000005041355700; Trying to Add   {Instructor, ID:097, 226ms}
+PRODUCER    [02]; 0000000005042354100; Room is closed, {Instructor, ID:097, 226ms} is skipped!
+PRODUCER    [02]; 0000000005042354100; Trying to Add   {Student   , ID:098, 413ms}
+PRODUCER    [02]; 0000000005042354100; Room is closed, {Student   , ID:098, 413ms} is skipped!
+PRODUCER    [02]; 0000000005043351300; Trying to Add   {Instructor, ID:099, 148ms}
+PRODUCER    [02]; 0000000005043351300; Room is closed, {Instructor, ID:099, 148ms} is skipped!
+[C]PRINTER  [00]; 0000000005314797700; Printing        {Student   , ID:075, 437ms} is done!
+[C]PRINTER  [01]; 0000000005667583300; Printing        {Student   , ID:082, 666ms} is done!
+[C]PRINTER  [00]; 0000000005668529100; Printing        {Instructor, ID:084, 353ms} is done!
+[C]PRINTER  [00]; 0000000005771584300; Printing        {Student   , ID:015, 101ms} is done!
+[C]PRINTER  [00]; 0000000005985657200; Printing        {Student   , ID:032, 212ms} is done!
+[C]PRINTER  [00]; 0000000006263623800; Printing        {Student   , ID:062, 277ms} is done!
+[C]PRINTER  [01]; 0000000006283703400; Printing        {Student   , ID:071, 614ms} is done!
+[C]PRINTER  [00]; 0000000006366674700; Printing        {Student   , ID:020, 101ms} is done!
+[C]PRINTER  [01]; 0000000006585744400; Printing        {Student   , ID:026, 300ms} is done!
+[C]PRINTER  [01]; 0000000006687863600; Printing        {Student   , ID:005, 101ms} is done!
+[C]PRINTER  [00]; 0000000006719192200; Printing        {Student   , ID:031, 340ms} is done!
+[C]PRINTER  [00]; 0000000006992193500; Printing        {Student   , ID:028, 271ms} is done!
+[C]PRINTER  [01]; 0000000007367540500; Printing        {Student   , ID:055, 679ms} is done!
+[C]PRINTER  [00]; 0000000007368538100; Printing        {Student   , ID:030, 376ms} is done!
+[C]PRINTER  [01]; 0000000007469749200; Printing        {Student   , ID:010, 100ms} is done!
+[C]PRINTER  [00]; 0000000007471678300; Printing        {Student   , ID:007, 101ms} is done!
+[C]PRINTER  [01]; 0000000007571810400; Printing        {Student   , ID:009, 100ms} is done!
+[C]PRINTER  [00]; 0000000007574803700; Printing        {Student   , ID:008, 101ms} is done!
+[C]PRINTER  [01]; 0000000007915817200; Printing        {Student   , ID:079, 342ms} is done!
+[C]PRINTER  [00]; 0000000008009021100; Printing        {Student   , ID:064, 433ms} is done!
+[C]PRINTER  [01]; 0000000008019249800; Printing        {Student   , ID:021, 101ms} is done!
+[C]PRINTER  [00]; 0000000008554291300; Printing        {Student   , ID:061, 543ms} is done!
+[C]PRINTER  [01]; 0000000008640412700; Printing        {Student   , ID:059, 619ms} is done!
+[C]PRINTER  [00]; 0000000008923614900; Printing        {Student   , ID:050, 367ms} is done!
+[C]PRINTER  [01]; 0000000008975474800; Printing        {Student   , ID:058, 334ms} is done!
+[C]PRINTER  [01]; 0000000009257629200; Printing        {Student   , ID:049, 279ms} is done!
+[C]PRINTER  [00]; 0000000009300251400; Printing        {Student   , ID:051, 375ms} is done!
+[C]PRINTER  [00]; 0000000009555588900; Printing        {Student   , ID:060, 254ms} is done!
+[C]PRINTER  [01]; 0000000009622973700; Printing        {Student   , ID:063, 364ms} is done!
+[C]PRINTER  [00]; 0000000009818801600; Printing        {Student   , ID:034, 262ms} is done!
+[C]PRINTER  [00]; 0000000009919951900; Printing        {Student   , ID:019, 100ms} is done!
+[C]PRINTER  [00]; 0000000009920907900; Terminating...
+[C]PRINTER  [01]; 0000000010242199700; Printing        {Student   , ID:083, 615ms} is done!
+[C]PRINTER  [01]; 0000000010242199700; Terminating...
+MT          [00]; 0000000010243203700; Room is Closed
